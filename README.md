@@ -1,46 +1,65 @@
 ## Hi there 👋
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+ML-powered+Applications;Learning+AI,+ML+%26+Intelligent+Systems;Open+to+Collaboration+%26+Research" />
-<h1 align="center">Hi 👋, I'm Nabnita</h1>
-<h3 align="center">Computer Science Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=36BCF7&width=700&lines=Exploring+Computer+Science+and+Technology;Learning+and+Building+Projects;Open+to+Collaboration+and+Growth" />
+
+<h1>Hi 👋, I'm Nabnita</h1>
+<h3>Machine Learning & AI Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+ML-powered+Applications;Learning+AI,+ML+%26+Intelligent+Systems;Open+to+Collaboration+%26+Research" />
+
 </div>
 
 ---
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
-<td width="65%">
 
-## 👩‍💻 About Me
+<td width="65%" align="center">
 
-🚀 Exploring **computer science and modern technologies**  
-🧠 Learning and building through **projects & experimentation**  
-🤝 Open to **collaborations, learning & open-source**  
-📬 Reach me via **GitHub**
+<h2>👨‍💻 About Me</h2>
+
+<div style="text-align: justify; max-width: 650px; margin: auto;">
+
+🚀 Passionate about **Machine Learning & Artificial Intelligence**  
+🧠 Exploring **AI, ML & intelligent systems**  
+🤝 Open to **collaboration, research & open-source**  
+📚 Constantly learning and building real-world projects  
+😄 **she/her**
+
+</div>
 
 </td>
-<td width="35%" align="right" valign="middle">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
-
+<td width="35%" align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280"/>
 </td>
+
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌐 Socials
 
-<p align="center">
-  <a href="https://github.com/nabnita">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nabnita)
+
+</div>
 
 ---
+
+<div align="center">
+
+## 💻 Tech Stack
 
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -81,6 +100,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -93,27 +118,29 @@
 
 ---
 
+<div align="center">
+
 ## ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
-
----
-
-## 🔝 Featured Repositories
-
-<p align="center">
-  ⭐ Pin your best projects here from GitHub profile  
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nabnita&icon=0&color=3" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=More+Projects+Coming+Soon" />
+
+<br/>
+
+<img src="https://visitcount.itsvg.in/api?id=nabnita&icon=0&color=3"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
+
 <!--
 **nabnita/nabnita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
