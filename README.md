@@ -1,9 +1,6 @@
 ## Hi there 👋
 <!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
-</p>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+ML-powered+Applications;Learning+AI,+ML+%26+Intelligent+Systems;Open+to+Collaboration+%26+Research" />
 <h1 align="center">Hi 👋, I'm Nabnita</h1>
 <h3 align="center">Computer Science Enthusiast</h3>
 
