@@ -1,6 +1,8 @@
 ## Hi there 👋
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Nabnita</h1>
 <h3 align="center">Computer Science Enthusiast</h3>
